@@ -1,9 +1,5 @@
-# Another Twitter Sentiment Analysis with Python - Part 6
-
-Attached Jupyter Notebook is the part 6 of the Twitter Sentiment Analysis project I implemented as a capstone project for General Assembly's Data Science Immersive course.
-
-Accompanying blog posts can be found from my Medium account:
-https://medium.com/@rickykim78
+# Part 6
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rohitp934/twittersentiment/blob/master/Part6/Part6.ipynb)
 
 Below implementations can be found in the attached notebook.
 
